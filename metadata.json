@@ -1,0 +1,6 @@
+{
+  "name": "OmniScan PAUT Simulator - Phased Array NDT Workstation",
+  "description": "Professional Phased Array Ultrasonic Testing (PAUT) simulator modeled after Olympus/Evident OmniScan with S-Scan, A-Scan, C-Scan, probe/wedge link, weld overlay, calibration wizards, and tablet touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
